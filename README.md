@@ -15,6 +15,10 @@
    - Заал, PC, караоке, уулзалт, бильярд, боулинг тоглохоор найзуудаараа цаг товлож, Vote хийх систем.
 4. **🎂 UniSuite - HBD (`/apps/hbd`)**
    - Төрсөн өдрийн дижитал урилга болон RSVP (Ирэх хүмүүсийн бүртгэл).
+   tursun udriin mendchilgee
+5. Naizuudiin dursamj buteeh web
+6. 
+
 
 ---
 
